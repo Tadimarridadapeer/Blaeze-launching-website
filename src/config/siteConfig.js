@@ -1,0 +1,16 @@
+export const defaultSiteConfig = {
+  brandName: "BLAEZE",
+  brandTagline: "IGNITE YOUR IDENTITY.",
+  philosophyTag: "AE — AUTHENTIC EXPRESSION",
+  heroLabel: "BLAEZE® — AE / AUTHENTIC EXPRESSION",
+  heroHeadlineLine1: "NOT MADE",
+  heroHeadlineLine2: "TO FIT IN.",
+  heroHeadlineLine3: "MADE TO",
+  heroHeadlineLine4: "EXPRESS.",
+  heroSubtext: "An independent expression of identity, culture, and streetwear. A new chapter is on its way.",
+  launchDate: "2026-11-15T00:00:00Z",
+  showCountdown: true,
+  statusLabel: "THE FIRST CHAPTER — COMING SOON",
+  contactEmail: "info@theblaeze.com",
+  instagramUrl: "https://www.instagram.com/theblaeze/",
+};
